@@ -327,7 +327,7 @@ function showTooShortFrameFadeTimer(groupColour) {
   }
 }
 
-/* FUNCTIONS */
+/* FUNCTION CALLS */
 console.group(`%cAAO case polish toolkit output ${version}`, "color:aqua;font-size:14px;");
 showDoNotTalkBlueText(groupColour);
 showDoNotTalkPuntuation(groupColour);
